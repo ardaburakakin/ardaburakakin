@@ -1,48 +1,85 @@
-# 👋 Merhaba, Ben Arda Burak Akın
+<!-- PROFESYONEL GITHUB PROFILI – ARDA BURAK AKIN -->
 
-Merhaba! Bilgisayar mühendisliği temelli güçlü bir yazılım geliştiricisiyim.  
-C / C++ başta olmak üzere Python, Java ve HTML gibi dillerde uzmanlaşmış; yapay zeka, grafik programlama ve sistem geliştirme alanlarında tutkulu bir şekilde çalışıyorum. Açık kaynak topluluğu içinde aktif olarak yer alıyor, fikir üretip kod yazarak katkı sağlıyorum.
+<h1 align="center">👋 Merhaba, Ben Arda Burak Akın</h1>
+<h3 align="center">C / C++ Geliştiricisi | Yapay Zeka & Grafik Programlama Meraklısı</h3>
 
----
-
-## 🚀 Profilim & Hedeflerim  
-- 💡 Modern yazılım mimarilerini ve yüksek performanslı sistemleri geliştirerek “verimli”, “ölçeklenebilir” çözümler üretmek istiyorum.  
-- 🤖 Yapay zeka ve makine öğrenimi tekniklerini gerçek dünya uygulamalarına taşımaya odaklanıyorum.  
-- 🎮 Grafik programlama ve oyun motoru geliştirme konusunda deneyim kazanıyor; C++ ile gerçek zamanlı uygulamalar yazıyorum.  
-- 🌐 Açık kaynak projelerde bulunarak, hem kendi bilgi birikimimi genişletiyor hem de topluluğa değer katıyorum.  
-- 📈 Kendimi sürekli geliştiriyor, yeni teknolojileri takip ediyor ve ekip ortamında yaratıcı çözümler sunuyorum.
-
----
-
-## 🔧 Ana Diller & Teknolojiler  
-
-| Dil / Teknoloji | Rolüm / Kullanım Alanım                      |
-|---------------|---------------------------------------------|
-| **C / C++**   | Performans-kritik sistemler, oyun motorları, yerel kütüphaneler |
-| **Python**    | Hızlı prototipleme, veri analizi, makine öğrenimi |
-| **Java**      | Kurumsal uygulamalar, çapraz platform çözümleri       |
-| **HTML / CSS**| Web arayüzleri ve etkileşimli dokümantasyon             |
-| **Linux / Git**| Kaynak kontrolü, çok-iş parçacıklı geliştirme, CI/CD   |
+<p align="center">
+  <a href="https://github.com/ardaburakakin">
+    <img src="https://img.shields.io/github/followers/ardaburakakin?label=Takipçi&style=flat-square" />
+  </a>
+  <a href="https://github.com/ardaburakakin">
+    <img src="https://komarev.com/ghpvc/?username=ardaburakakin&style=flat-square&color=blue" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub İstatistiklerim  
-![ArdaBurakAkın’ın GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=ardaburakakin&show_icons=true)
+## 🧑‍💻 Hakkımda
+
+C ve C++ ağırlıklı çalışan, performans odaklı yazılım geliştirmeyi benimsemiş bir geliştiriciyim.  
+İlgi alanlarım; **yapay zeka**, **grafik programlama**, **sistem programlama** ve **modern C++ mimarileri** üzerine yoğunlaşıyor.
+
+Çoklu iş parçacığı yönetimi, veri yapıları, düşük seviyeli uygulamalar ve optimizasyon konularında aktif olarak kendimi geliştiriyorum.  
+Amacım; teknik bilgi birikimimi gerçek dünya projelerinde kullanılabilir çözümlere dönüştürmek ve açık kaynak dünyasında kalıcı katkılar yapmak.
 
 ---
 
-## 📂 Seçili Projelerim  
-- **Yapay Zeka Mini Projesi** – C++ / Python ile geliştirilen, küçük ölçekli bir sinir ağı uygulaması.  
-- **C++ Oyun Motoru Denemesi** – Modern C++17/20 kullanılarak hazırlanan, grafik programlama ve oyun döngüsü içeren bir proje.  
-- (İleride) Daha fazla proje eklenecektir — sistem programlama, ağ uygulamaları ve çapraz platform çözümleri üzerine.
+## 🧠 Uzmanlık Alanlarım & İlgi Duyduğum Teknolojiler
+
+### **💻 Programlama Dilleri**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,java,html,css" />
+</p>
+
+### **🔧 Teknolojiler / Araçlar**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,cmake,visualstudio,vscode" />
+</p>
+
+### **📚 Teknik Alanlar**
+- Sistem Programlama (C / C++)  
+- Yapay Zeka, Makine Öğrenimi  
+- Grafik Programlama (C++ / OpenGL / SDL / SFML)  
+- Çoklu İş Parçacığı (Multithreading)  
+- Veri Yapıları ve Algoritmalar  
+- Modern C++ (C++14/17/20)
 
 ---
 
-## 📫 İletişim  
-- LinkedIn: [Arda Burak Akın](https://www.linkedin.com/in/arda-burak-akin-15a9b238b/)  
-- GitHub: [github.com/ardaburakakin](https://github.com/ardaburakakin)  
-- E-posta: akinardaburak1@gmail.com
+## 🚀 Devam Eden ve Planlanan Projeler
+
+### 🧠 **Yapay Zeka Mini Framework (C++ / Python)**
+Basit nöral ağ yapıları, eğitim döngüleri ve optimizasyon teknikleri içeren mini bir AI framework.
+
+### 🎮 **C++ Oyun Motoru Denemesi**
+SFML / OpenGL kullanarak çerçeve çizimi, olay yönetimi ve oyun döngüsü işleyen temel bir motor.
+
+### 🛠 **Sistem Programlama Araçları**
+C ve C++ ile süreç yönetimi, bellek kullanımı, dosya sistemi gibi düşük seviyeli yapılar üzerinde çalışmalar.
 
 ---
 
-> “Kodlarımızla yalnızca çalıştırmayız — anlaşılır, sürdürülebilir ve geleceğe dönük çözümler üretiriz.”  
+## 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ardaburakakin&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardaburakakin&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Bana Ulaşın
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arda-burak-akin-15a9b238b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ardaburakakin">
+    <img src="https://skillicons.dev/icons?i=github" width="50px"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">⭐ Gelişmeye, üretmeye ve katkı sağlamaya devam ediyorum!</h3>
